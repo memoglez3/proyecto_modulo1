@@ -1,4 +1,3 @@
-,Minimesas,Minisillas,Límite
-Precio de venta," $2,000.00 "," $3,000.00 ",-
-Tiempo de fabricacion,2 hrs,3 hrs,10 hrs
-Costo de material, $400.00 , $200.00 ,-
+Producto,Precio,T. Fabricación,Costo
+Minimesa,2000,2,400
+Minisilla,3000,3,200
